@@ -123,5 +123,10 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" id="1490942817kgq4mlscpo" name="Квартира">
+   <recordtable>
+    <record id="1490943088ij2u4wqik8" name="Покупка квартиры" author="" url="http://www.s-u-d.ru/services/realtor_services/instruktsija-kak-samostojatelno-kupit-kvartiru-v-moskve-mo-2014-g/" tags="" ctime="20170331095128" dir="149094308842g129smdm" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
