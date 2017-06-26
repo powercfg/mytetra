@@ -170,6 +170,11 @@
     <record id="1490943088ij2u4wqik8" name="Покупка квартиры" author="" url="http://www.s-u-d.ru/services/realtor_services/instruktsija-kak-samostojatelno-kupit-kvartiru-v-moskve-mo-2014-g/" tags="" ctime="20170331095128" dir="149094308842g129smdm" file="text.html"/>
     <record id="1491576448fwwf47tz23" name="Ремонт" author="" url="http://www.mastergrad.com/forums/master-predlagaet-uslugi/moskva/" tags="" ctime="20170407174728" dir="1491576448y4ts03tt9s" file="text.html"/>
    </recordtable>
+   <node crypt="" id="1498490901u154r63a92" name="Объявления">
+    <recordtable>
+     <record id="1498490939jz547d2gcq" name="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_38_m_79_et._625734352" author="" url="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_38_m_79_et._625734352" tags="" ctime="20170626182859" dir="1498490939pmldn5n3en" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
