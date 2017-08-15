@@ -179,17 +179,8 @@
       <file id="1498503817hcilajmy9l" fileName="Shablony_dogovorov_kuplya_elektron_reg.zip" type="file"/>
      </files>
     </record>
+    <record id="1502804675tn5twbk4rk" name="Ипотека ВТБ24" author="" url="" tags="" ctime="20170815164435" dir="1502804675gui1plvz95" file="text.html"/>
    </recordtable>
-   <node crypt="" id="1498490901u154r63a92" name="Объявления">
-    <recordtable>
-     <record id="1498490939jz547d2gcq" name="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_38_m_79_et._625734352" author="" url="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_38_m_79_et._625734352" tags="" ctime="20170626182859" dir="1498490939pmldn5n3en" file="text.html"/>
-     <record id="1498579174y45oysd72d" name="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_47_m_69_et._209760385" author="" url="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_47_m_69_et._209760385" tags="" ctime="20170627195934" dir="1498579174w6wlowd4w2" file="text.html"/>
-     <record id="1498580191znsk7qvd0k" name="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_40_m_1217_et._889265810" author="" url="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_40_m_1217_et._889265810" tags="" ctime="20170627201631" dir="1498580191m147o6gsj7" file="text.html"/>
-     <record id="1498580730mj3oge4uqb" name="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_43_m_816_et._978006954" author="" url="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_43_m_816_et._978006954" tags="" ctime="20170627202530" dir="1498580730gtjfkhlq5z" file="text.html"/>
-     <record id="1498581424gnpedimria" name="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_37_m_69_et._949155537" author="" url="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_37_m_69_et._949155537" tags="" ctime="20170627203704" dir="1498581424uia4kltplv" file="text.html"/>
-     <record id="1498583210270mbj23ts" name="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_40_m_69_et._1093327901" author="" url="https://www.avito.ru/moskva/kvartiry/2-k_kvartira_40_m_69_et._1093327901" tags="" ctime="20170627210650" dir="149858321038d3cluiuh" file="text.html"/>
-    </recordtable>
-   </node>
   </node>
  </content>
 </root>
