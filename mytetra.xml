@@ -168,6 +168,10 @@
    </recordtable>
   </node>
   <node crypt="" id="1490937863n8zf4lo2id" name="Авто">
+   <recordtable>
+    <record id="1519797593jq7it0svn2" name="Объявление" author="" url="" tags="" ctime="20180228085953" dir="1519797593lfvqatj8dy" file="text.html"/>
+    <record id="1519797670fh3g39p63y" name="Приус vin" author="" url="" tags="" ctime="20180228090110" dir="1519797670fm80gp6l2a" file="text.html"/>
+   </recordtable>
    <node crypt="" id="1490937870ygkhj7pcm9" name="ДТП">
     <recordtable>
      <record id="149093788471tujp8h59" name="Яма" author="" url="http://www.yaplakal.com/forum11/topic1574130.html" tags="" ctime="20170331082444" dir="1490937884u9wlec23fj" file="text.html"/>
